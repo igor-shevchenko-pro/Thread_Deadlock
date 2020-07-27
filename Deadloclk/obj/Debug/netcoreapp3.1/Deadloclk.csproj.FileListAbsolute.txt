@@ -1,0 +1,10 @@
+C:\Users\igors\OneDrive\Рабочий стол\Deadloclk\Deadloclk\bin\Debug\netcoreapp3.1\Deadloclk.exe
+C:\Users\igors\OneDrive\Рабочий стол\Deadloclk\Deadloclk\bin\Debug\netcoreapp3.1\Deadloclk.deps.json
+C:\Users\igors\OneDrive\Рабочий стол\Deadloclk\Deadloclk\bin\Debug\netcoreapp3.1\Deadloclk.runtimeconfig.json
+C:\Users\igors\OneDrive\Рабочий стол\Deadloclk\Deadloclk\bin\Debug\netcoreapp3.1\Deadloclk.runtimeconfig.dev.json
+C:\Users\igors\OneDrive\Рабочий стол\Deadloclk\Deadloclk\bin\Debug\netcoreapp3.1\Deadloclk.dll
+C:\Users\igors\OneDrive\Рабочий стол\Deadloclk\Deadloclk\bin\Debug\netcoreapp3.1\Deadloclk.pdb
+C:\Users\igors\OneDrive\Рабочий стол\Deadloclk\Deadloclk\obj\Debug\netcoreapp3.1\Deadloclk.AssemblyInfoInputs.cache
+C:\Users\igors\OneDrive\Рабочий стол\Deadloclk\Deadloclk\obj\Debug\netcoreapp3.1\Deadloclk.AssemblyInfo.cs
+C:\Users\igors\OneDrive\Рабочий стол\Deadloclk\Deadloclk\obj\Debug\netcoreapp3.1\Deadloclk.dll
+C:\Users\igors\OneDrive\Рабочий стол\Deadloclk\Deadloclk\obj\Debug\netcoreapp3.1\Deadloclk.pdb
